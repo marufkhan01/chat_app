@@ -1,0 +1,28 @@
+.message {
+    padding: 10px;
+    display: flex;
+    flex-shrink: 0;
+}
+.message-content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.message-info {
+    display: flex;
+}
+.message-user {
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.message-time {
+    font-weight: 100;
+    color: grey;
+}
+
+.message-text {
+    line-height: 20px;
+    color: grey;
+}

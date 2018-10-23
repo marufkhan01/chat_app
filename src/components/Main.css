@@ -1,0 +1,19 @@
+.main {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.main-info {
+    align-self: flex-end;
+    display: flex;
+    align-items: center;
+}
+
+.main-user {
+    font-weight: bold;
+}
+
+.main-title {
+    font-weight: 100;
+}
